@@ -2,3 +2,4 @@
 // commit D - squash
 // commit E - squash
 // commit F - rebase
+// commit G - rebase
